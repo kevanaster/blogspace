@@ -20,11 +20,9 @@ author: Eugene Reader
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: 
+    - Bio: "bio"
+    - Resume: "resume"
 
 ################
 # --- Logo --- #
@@ -212,7 +210,7 @@ footer-hover-col: "#0085A1"
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "d Month, yyyy"
+date_format: "%B %d, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
